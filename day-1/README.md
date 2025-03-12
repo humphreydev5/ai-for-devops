@@ -6,6 +6,9 @@
 ## 1. Traditional AI in DevOps
 Traditional AI relies on **structured data, pre-defined rules, and predictive models** trained on historical data. It excels at classification, forecasting, and anomaly detection.
 
+![image](https://github.com/user-attachments/assets/f1aa0b2c-8852-4033-91e6-7ebdd62f7acb)
+
+
 ### Example: Incident Detection & Prediction
 - **Use Case:** Predicting system failures before they occur.
 - **How It Works:**  
@@ -20,6 +23,9 @@ Traditional AI relies on **structured data, pre-defined rules, and predictive mo
 
 ## 2. Generative AI in DevOps
 Generative AI (Gen AI) leverages **large language models (LLMs)** to analyze, summarize, and even generate new content dynamically.
+
+![image](https://github.com/user-attachments/assets/abaa0dbe-d209-486b-bbac-95c1484c1f29)
+
 
 ### Example: AI-Powered Incident Resolution & RCA
 - **Use Case:** Automating root cause analysis (RCA) & remediation.  
