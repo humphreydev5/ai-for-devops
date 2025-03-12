@@ -1,5 +1,8 @@
 # Day - 1 
 
+![image](https://github.com/user-attachments/assets/9d50de5b-90a8-4a62-a307-4790a53b0efa)
+
+
 ## 1. Traditional AI in DevOps
 Traditional AI relies on **structured data, pre-defined rules, and predictive models** trained on historical data. It excels at classification, forecasting, and anomaly detection.
 
