@@ -1,9 +1,9 @@
 # Day - 1 
 
+![Uploading The Evolution of AI in DevOps_ Traditional vs. Generative AI - visual selection.png…]()
+
 ## 1. Traditional AI in DevOps
 Traditional AI relies on **structured data, pre-defined rules, and predictive models** trained on historical data. It excels at classification, forecasting, and anomaly detection.
-
-https://media.licdn.com/dms/image/v2/D4D12AQFobIhmiikfdw/article-inline_image-shrink_1500_2232/B4DZWJ5OrrG4AU-/0/1741775238758?e=1747267200&v=beta&t=2tULc-tBtYtosGGCeODwtUP0DUI54WjQ15tuLP3OW_k
 
 ### Example: Incident Detection & Prediction
 - **Use Case:** Predicting system failures before they occur.
